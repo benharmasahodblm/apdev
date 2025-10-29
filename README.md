@@ -1,3 +1,1 @@
-# apdev
-MFR
-Movies and Series
+Favorite Series and MOo
